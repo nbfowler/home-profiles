@@ -15,7 +15,7 @@
 	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 
 [user]
-#	email = bosco@indiegogo.com
+#	email = bosco@sfruby.info
 #	name = Bosco So
 
 [apply]
